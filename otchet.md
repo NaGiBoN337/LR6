@@ -5,14 +5,14 @@
 ![image1](https://github.com/NaGiBoN337/LR6/blob/otchet/img/1%20(2).jpg)
 ![image2](https://github.com/NaGiBoN337/LR6/blob/otchet/img/2.jpg)
 ![image3](https://github.com/NaGiBoN337/LR6/blob/otchet/img/3.jpg)
-![image4](https://github.com/NaGiBoN337/LR6/tree/otchet/img/4.jpg)
-![image5](https://github.com/NaGiBoN337/LR6/tree/otchet/img/5.jpg)
-![image6](https://github.com/NaGiBoN337/LR6/tree/otchet/img/6.jpg)
-![image7](https://github.com/NaGiBoN337/LR6/tree/otchet/img/7.jpg)
-![image8](https://github.com/NaGiBoN337/LR6/tree/otchet/img/8.jpg)
-![image9](https://github.com/NaGiBoN337/LR6/tree/otchet/img/9.png)
-![image10](https://github.com/NaGiBoN337/LR6/tree/otchet/img/10.png)
-![image11](https://github.com/NaGiBoN337/LR6/tree/otchet/img/11.png)
+![image4](https://github.com/NaGiBoN337/LR6/blob/otchet/img/4.jpg)
+![image5](https://github.com/NaGiBoN337/LR6/blob/otchet/img/5.jpg)
+![image6](https://github.com/NaGiBoN337/LR6/blob/otchet/img/6.jpg)
+![image7](https://github.com/NaGiBoN337/LR6/blob/otchet/img/7.jpg)
+![image8](https://github.com/NaGiBoN337/LR6/blob/otchet/img/8.jpg)
+![image9](https://github.com/NaGiBoN337/LR6/blob/otchet/img/9.png)
+![image10](https://github.com/NaGiBoN337/LR6/blob/otchet/img/10.png)
+![image11](https://github.com/NaGiBoN337/LR6/blob/otchet/img/11.png)
 
 ##### Лог вывода
 
