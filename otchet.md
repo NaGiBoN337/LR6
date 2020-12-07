@@ -2,7 +2,7 @@
 
 Все пунты были выполнены, их доказательство представленно на картинках
 
-![image1](https://github.com/NaGiBoN337/LR6/tree/otchet/1(2).jpg)
+![image1](https://github.com/NaGiBoN337/LR6/blob/otchet/img/1%20(2).jpg)
 ![image2](https://github.com/NaGiBoN337/LR6/tree/otchet/2.jpg)
 ![image3](https://github.com/NaGiBoN337/LR6/tree/otchet/3.jpg)
 ![image4](https://github.com/NaGiBoN337/LR6/tree/otchet/4.jpg)
