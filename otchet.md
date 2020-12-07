@@ -10,9 +10,9 @@
 ![image6](https://github.com/NaGiBoN337/LR6/blob/otchet/img/6.jpg)
 ![image7](https://github.com/NaGiBoN337/LR6/blob/otchet/img/7.jpg)
 ![image8](https://github.com/NaGiBoN337/LR6/blob/otchet/img/8.jpg)
-![image9](https://github.com/NaGiBoN337/LR6/blob/otchet/img/9.png)
-![image10](https://github.com/NaGiBoN337/LR6/blob/otchet/img/10.png)
-![image11](https://github.com/NaGiBoN337/LR6/blob/otchet/img/11.png)
+![image9](https://github.com/NaGiBoN337/LR6/blob/otchet/img/9.PNG)
+![image10](https://github.com/NaGiBoN337/LR6/blob/otchet/img/10.PNG)
+![image11](https://github.com/NaGiBoN337/LR6/blob/otchet/img/11.PNG)
 
 ##### Лог вывода
 
