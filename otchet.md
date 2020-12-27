@@ -16,7 +16,7 @@
 
 ##### Лог вывода
 
-9fb32a9 - fedorov oleg4918, Mon Dec 7 16:51:44 2020 +0300 : add png
+<9fb32a9 - fedorov oleg4918, Mon Dec 7 16:51:44 2020 +0300 : add png
 ba68a41 - fedorov oleg4918, Mon Dec 7 16:41:31 2020 +0300 : izmenil opisanie img
 adc327e - fedorov oleg4918, Mon Dec 7 16:40:56 2020 +0300 : bodavil vivod
 927196a - fedorov oleg4918, Mon Dec 7 16:36:39 2020 +0300 : bodavil fail otchet
@@ -29,10 +29,12 @@ b48ae50 - Oleg, Fri Nov 27 13:13:26 2020 +0300 : Rename testadd to testadd.txt
 921f53b - Kurtyanik, Sat Nov 21 20:09:49 2020 +0300 : Обновление информации
 0f9f50d - Kurtyanik, Sat Nov 21 20:08:33 2020 +0300 : Заполнил файл
 c08a654 - Kurtyanik, Sat Nov 21 20:02:16 2020 +0300 : Файл создан пустым
-3c6e913 - Kurtyanik, Sat Nov 21 19:58:20 2020 +0300 : Initial commit
+3c6e913 - Kurtyanik, Sat Nov 21 19:58:20 2020 +0300 : Initial commit>
 
 
 
 ### Вывод
 
-скорее всего я не правильно сделал слияние, остальное выполненно отлично!
+Я изучил базовые возможности системы, получил опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием.
+
+
