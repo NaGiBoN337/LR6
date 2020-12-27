@@ -1,15 +1,28 @@
 # Лабораторная работа 2 #
 
-Все пунты были выполнены, их доказательство представленно на картинках
+После успешной регистрации был клонированн удалённый репозиторий на компьютер, добавилен файл через интерфейс GitHub. 
+Подтянуты изменения в локальный репозиторий.
+После установки был настроен клиент git, ввенно имя пользователя (Группа, Фамилия И.О.) и email
 
 ![image1](https://github.com/NaGiBoN337/LR6/blob/otchet/img/1%20(2).jpg)
 ![image2](https://github.com/NaGiBoN337/LR6/blob/otchet/img/2.jpg)
 ![image3](https://github.com/NaGiBoN337/LR6/blob/otchet/img/3.jpg)
+
+Получена история операция для каждой из веток
+
 ![image4](https://github.com/NaGiBoN337/LR6/blob/otchet/img/4.jpg)
 ![image5](https://github.com/NaGiBoN337/LR6/blob/otchet/img/5.jpg)
 ![image6](https://github.com/NaGiBoN337/LR6/blob/otchet/img/6.jpg)
+
+Объеденение файлов
+
 ![image7](https://github.com/NaGiBoN337/LR6/blob/otchet/img/7.jpg)
 ![image8](https://github.com/NaGiBoN337/LR6/blob/otchet/img/8.jpg)
+![image12](https://github.com/NaGiBoN337/LR6/blob/otchet/img/merge.png.jpg)
+![image13](https://github.com/NaGiBoN337/LR6/blob/otchet/img/merge2.png.jpg)
+
+Создана ветка для отчета, добавлен новый файл
+
 ![image9](https://github.com/NaGiBoN337/LR6/blob/otchet/img/9.PNG)
 ![image10](https://github.com/NaGiBoN337/LR6/blob/otchet/img/10.PNG)
 ![image11](https://github.com/NaGiBoN337/LR6/blob/otchet/img/11.PNG)
